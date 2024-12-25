@@ -7,3 +7,4 @@
 - [0006_up_and_down_the_string_grows](https://www.codewars.com/kata/644b17b56ed5527b09057987/train/javascript)
 - [0007_check_same_case](https://www.codewars.com/kata/5dd462a573ee6d0014ce715b/train/javascript)
 - [0008_gravity_flip](https://www.codewars.com/kata/5f70c883e10f9e0001c89673)
+- [0009_a_wolf_in_sheeps_clothing](https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15/train/javascript)
