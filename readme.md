@@ -9,3 +9,4 @@
 - [0008_gravity_flip](https://www.codewars.com/kata/5f70c883e10f9e0001c89673)
 - [0009_a_wolf_in_sheeps_clothing](https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15/train/javascript)
 - [0010_closest_elevator](https://www.codewars.com/kata/5c374b346a5d0f77af500a5a/train/javascript)
+- [0011_twice_as_old](https://www.codewars.com/kata/5b853229cfde412a470000d0/train/javascript)
