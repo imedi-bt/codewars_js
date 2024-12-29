@@ -11,3 +11,4 @@
 - [0010_closest_elevator](https://www.codewars.com/kata/5c374b346a5d0f77af500a5a/train/javascript)
 - [0011_twice_as_old](https://www.codewars.com/kata/5b853229cfde412a470000d0/train/javascript)
 - [0012_quarter_of_the_year](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af/train/javascript)
+- [0013_pillars](https://www.codewars.com/kata/5bb0c58f484fcd170700063d/train/javascript)
