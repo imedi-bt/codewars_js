@@ -12,3 +12,4 @@
 - [0011_twice_as_old](https://www.codewars.com/kata/5b853229cfde412a470000d0/train/javascript)
 - [0012_quarter_of_the_year](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af/train/javascript)
 - [0013_pillars](https://www.codewars.com/kata/5bb0c58f484fcd170700063d/train/javascript)
+- [0014_sum_of_differences_in_array](https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e/train/javascript)
