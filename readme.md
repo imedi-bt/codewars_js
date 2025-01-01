@@ -14,3 +14,4 @@
 - [0013_pillars](https://www.codewars.com/kata/5bb0c58f484fcd170700063d/train/javascript)
 - [0014_sum_of_differences_in_array](https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e/train/javascript)
 - [0015_draw_stairs](https://www.codewars.com/kata/5b4e779c578c6a898e0005c5/train/javascript)
+- [0016_if_you_cant_sleep_just_count_sheep](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077/train/javascript)
