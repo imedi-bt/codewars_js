@@ -16,3 +16,5 @@
 - [0015_draw_stairs](https://www.codewars.com/kata/5b4e779c578c6a898e0005c5/train/javascript)
 - [0016_if_you_cant_sleep_just_count_sheep](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077/train/javascript)
 - [0017_students_final_grade](https://www.codewars.com/kata/5ad0d8356165e63c140014d4/train/javascript)
+- [0018_area_or_perimeter](https://www.codewars.com/kata/5ab6538b379d20ad880000ab/train/javascript)
+- [0019_the_feast_of_many_beasts](https://www.codewars.com/kata/5aa736a455f906981800360d/train/javascript)
