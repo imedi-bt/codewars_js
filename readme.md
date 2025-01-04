@@ -18,3 +18,4 @@
 - [0017_students_final_grade](https://www.codewars.com/kata/5ad0d8356165e63c140014d4/train/javascript)
 - [0018_area_or_perimeter](https://www.codewars.com/kata/5ab6538b379d20ad880000ab/train/javascript)
 - [0019_the_feast_of_many_beasts](https://www.codewars.com/kata/5aa736a455f906981800360d/train/javascript)
+- [0020_cat_years_dog_years](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b/train/javascript)
