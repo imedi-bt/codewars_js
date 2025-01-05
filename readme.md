@@ -19,3 +19,4 @@
 - [0018_area_or_perimeter](https://www.codewars.com/kata/5ab6538b379d20ad880000ab/train/javascript)
 - [0019_the_feast_of_many_beasts](https://www.codewars.com/kata/5aa736a455f906981800360d/train/javascript)
 - [0020_cat_years_dog_years](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b/train/javascript)
+- [0021_quadrants](https://www.codewars.com/kata/643af0fa9fa6c406b47c5399/train/javascript)
