@@ -21,3 +21,4 @@
 - [0020_cat_years_dog_years](https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b/train/javascript)
 - [0021_quadrants](https://www.codewars.com/kata/643af0fa9fa6c406b47c5399/train/javascript)
 - [0022_quadratic_coefficients_solver](https://www.codewars.com/kata/5d59576768ba810001f1f8d6/train/javascript)
+- [0023_total_pressure_calculation](https://www.codewars.com/kata/5b7ea71db90cc0f17c000a5a/train/javascript)
