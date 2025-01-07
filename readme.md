@@ -22,3 +22,4 @@
 - [0021_quadrants](https://www.codewars.com/kata/643af0fa9fa6c406b47c5399/train/javascript)
 - [0022_quadratic_coefficients_solver](https://www.codewars.com/kata/5d59576768ba810001f1f8d6/train/javascript)
 - [0023_total_pressure_calculation](https://www.codewars.com/kata/5b7ea71db90cc0f17c000a5a/train/javascript)
+- [0024_easy_logs](https://www.codewars.com/kata/5b68c7029756802aa2000176/train/javascript)
