@@ -24,3 +24,4 @@
 - [0023_total_pressure_calculation](https://www.codewars.com/kata/5b7ea71db90cc0f17c000a5a/train/javascript)
 - [0024_easy_logs](https://www.codewars.com/kata/5b68c7029756802aa2000176/train/javascript)
 - [0025_find_the_force_of_gravity_between_two_objects](https://www.codewars.com/kata/5b609ebc8f47bd595e000627/train/javascript)
+- [0026_find_nearest_square_number](https://www.codewars.com/kata/5a805d8cafa10f8b930005ba/train/javascript)
