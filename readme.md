@@ -26,3 +26,4 @@
 - [0025_find_the_force_of_gravity_between_two_objects](https://www.codewars.com/kata/5b609ebc8f47bd595e000627/train/javascript)
 - [0026_find_nearest_square_number](https://www.codewars.com/kata/5a805d8cafa10f8b930005ba/train/javascript)
 - [0027_century_from_year](https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097/train/javascript)
+- [0028_define_a_card_suit](https://www.codewars.com/kata/5a360620f28b82a711000047/train/javascript)
