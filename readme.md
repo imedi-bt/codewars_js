@@ -30,3 +30,4 @@
 - [0029_multiple_of_index](https://www.codewars.com/kata/5a34b80155519e1a00000009/train/javascript)
 - [0030_array_plus_array](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151/train/javascript)
 - [0031_csv_representation_of_array](https://www.codewars.com/kata/5a34af40e1ce0eb1f5000036/train/javascript)
+- [0032_type_of_sum](https://www.codewars.com/kata/5a2e9ae2b6cfd7692a0000ba/train/javascript)
