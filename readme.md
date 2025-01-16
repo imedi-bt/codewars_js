@@ -33,3 +33,4 @@
 - [0032_type_of_sum](https://www.codewars.com/kata/5a2e9ae2b6cfd7692a0000ba/train/javascript)
 - [0033_expressions_matter](https://www.codewars.com/kata/5ae62fcf252e66d44d00008e/train/javascript)
 - [0034_multiplication_table_for_number](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce/train/javascript)
+- [0035_the_falling_speed_of_petals](https://www.codewars.com/kata/5a0be7ea8ba914fc9c00006b/train/javascript)
