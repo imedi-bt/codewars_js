@@ -34,3 +34,4 @@
 - [0033_expressions_matter](https://www.codewars.com/kata/5ae62fcf252e66d44d00008e/train/javascript)
 - [0034_multiplication_table_for_number](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce/train/javascript)
 - [0035_the_falling_speed_of_petals](https://www.codewars.com/kata/5a0be7ea8ba914fc9c00006b/train/javascript)
+- [0036_sort_my_textbooks](https://www.codewars.com/kata/5a07e5b7ffe75fd049000051/train/javascript)
