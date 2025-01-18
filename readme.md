@@ -35,3 +35,4 @@
 - [0034_multiplication_table_for_number](https://www.codewars.com/kata/5a2fd38b55519ed98f0000ce/train/javascript)
 - [0035_the_falling_speed_of_petals](https://www.codewars.com/kata/5a0be7ea8ba914fc9c00006b/train/javascript)
 - [0036_sort_my_textbooks](https://www.codewars.com/kata/5a07e5b7ffe75fd049000051/train/javascript)
+- [0037_third_angle_of_a_triangle](https://www.codewars.com/kata/5a023c426975981341000014/train/javascript)
