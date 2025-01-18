@@ -36,3 +36,5 @@
 - [0035_the_falling_speed_of_petals](https://www.codewars.com/kata/5a0be7ea8ba914fc9c00006b/train/javascript)
 - [0036_sort_my_textbooks](https://www.codewars.com/kata/5a07e5b7ffe75fd049000051/train/javascript)
 - [0037_third_angle_of_a_triangle](https://www.codewars.com/kata/5a023c426975981341000014/train/javascript)
+- [0038_reversed_sequence](https://www.codewars.com/kata/5a00e05cc374cb34d100000d/train/javascript)
+- [0039_convert_to_binary](https://www.codewars.com/kata/59fca81a5712f9fa4700159a/train/javascript)
