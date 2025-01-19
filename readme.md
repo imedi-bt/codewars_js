@@ -38,3 +38,4 @@
 - [0037_third_angle_of_a_triangle](https://www.codewars.com/kata/5a023c426975981341000014/train/javascript)
 - [0038_reversed_sequence](https://www.codewars.com/kata/5a00e05cc374cb34d100000d/train/javascript)
 - [0039_convert_to_binary](https://www.codewars.com/kata/59fca81a5712f9fa4700159a/train/javascript)
+- [0040_potenciation](https://www.codewars.com/kata/59fc72fe235f93838b002235/train/javascript)
