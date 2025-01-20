@@ -40,3 +40,6 @@
 - [0039_convert_to_binary](https://www.codewars.com/kata/59fca81a5712f9fa4700159a/train/javascript)
 - [0040_potenciation](https://www.codewars.com/kata/59fc72fe235f93838b002235/train/javascript)
 - [0041_!a_==_a_?!](https://www.codewars.com/kata/59f9796cffe75f9299000025/train/javascript)
+- [0042_return_the_day](https://www.codewars.com/kata/59dd3ccdded72fc78b000b25/train/javascript)
+- [0043_is_he_gonna_survive?](https://www.codewars.com/kata/59ca8246d751df55cc00014c/train/javascript)
+- [0044_simple_fun_#352:_reagent_formula](https://www.codewars.com/kata/59c8b38423dacc7d95000008/train/javascript)
