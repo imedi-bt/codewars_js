@@ -45,3 +45,4 @@
 - [0044_simple_fun_#352:_reagent_formula](https://www.codewars.com/kata/59c8b38423dacc7d95000008/train/javascript)
 - [0045_for_twins:_2_math_operations](https://www.codewars.com/kata/59c287b16bddd291c700009a/train/javascript)
 - [0046_for_twins:_1_types](https://www.codewars.com/kata/59c1302ecb7fb48757000013/train/javascript)
+- [0047_find_the_integral](https://www.codewars.com/kata/59811fd8a070625d4c000013/train/javascript)
