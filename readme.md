@@ -46,3 +46,5 @@
 - [0045_for_twins:_2_math_operations](https://www.codewars.com/kata/59c287b16bddd291c700009a/train/javascript)
 - [0046_for_twins:_1_types](https://www.codewars.com/kata/59c1302ecb7fb48757000013/train/javascript)
 - [0047_find_the_integral](https://www.codewars.com/kata/59811fd8a070625d4c000013/train/javascript)
+- [0048_USD_=>_CNY](https://www.codewars.com/kata/5977618080ef220766000022/train/javascript)
+- [0049_contamination_#1_-String-](https://www.codewars.com/kata/596fba44963025c878000039/train/javascript)
