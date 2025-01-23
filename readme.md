@@ -49,3 +49,7 @@
 - [0048_USD_=>_CNY](https://www.codewars.com/kata/5977618080ef220766000022/train/javascript)
 - [0049_contamination_#1_-String-](https://www.codewars.com/kata/596fba44963025c878000039/train/javascript)
 - [0050_aspect_ratio_cropping_-_part_1](https://www.codewars.com/kata/596e4ef7b61e25981200009f/train/javascript)
+- [0051_fixme:_replace_all_dots](https://www.codewars.com/kata/596c6eb85b0f515834000049/train/javascript)
+- [0052_sum_the_strings](https://www.codewars.com/kata/5966e33c4e686b508700002d/train/javascript)
+- [0053_take_the_derivative](https://www.codewars.com/kata/5963c18ecb97be020b0000a2/train/javascript)
+- [0054_capitalization_and_mutability](https://www.codewars.com/kata/595970246c9b8fa0a8000086/train/javascript)
