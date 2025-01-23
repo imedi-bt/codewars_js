@@ -48,3 +48,4 @@
 - [0047_find_the_integral](https://www.codewars.com/kata/59811fd8a070625d4c000013/train/javascript)
 - [0048_USD_=>_CNY](https://www.codewars.com/kata/5977618080ef220766000022/train/javascript)
 - [0049_contamination_#1_-String-](https://www.codewars.com/kata/596fba44963025c878000039/train/javascript)
+- [0050_aspect_ratio_cropping_-_part_1](https://www.codewars.com/kata/596e4ef7b61e25981200009f/train/javascript)
