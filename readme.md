@@ -53,3 +53,4 @@
 - [0052_sum_the_strings](https://www.codewars.com/kata/5966e33c4e686b508700002d/train/javascript)
 - [0053_take_the_derivative](https://www.codewars.com/kata/5963c18ecb97be020b0000a2/train/javascript)
 - [0054_capitalization_and_mutability](https://www.codewars.com/kata/595970246c9b8fa0a8000086/train/javascript)
+- [0055_pythagorean_triple](https://www.codewars.com/kata/5951d30ce99cf2467e000013/train/javascript)
