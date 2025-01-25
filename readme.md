@@ -54,3 +54,4 @@
 - [0053_take_the_derivative](https://www.codewars.com/kata/5963c18ecb97be020b0000a2/train/javascript)
 - [0054_capitalization_and_mutability](https://www.codewars.com/kata/595970246c9b8fa0a8000086/train/javascript)
 - [0055_pythagorean_triple](https://www.codewars.com/kata/5951d30ce99cf2467e000013/train/javascript)
+- [0056_5_without_numbers](https://www.codewars.com/kata/59441520102eaa25260000bf/train/javascript)
