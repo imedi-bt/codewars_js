@@ -55,3 +55,4 @@
 - [0054_capitalization_and_mutability](https://www.codewars.com/kata/595970246c9b8fa0a8000086/train/javascript)
 - [0055_pythagorean_triple](https://www.codewars.com/kata/5951d30ce99cf2467e000013/train/javascript)
 - [0056_5_without_numbers](https://www.codewars.com/kata/59441520102eaa25260000bf/train/javascript)
+- [0057_count_odd_numbers_below_n](https://www.codewars.com/kata/59342039eb450e39970000a6/train/javascript)
