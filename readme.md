@@ -56,3 +56,4 @@
 - [0055_pythagorean_triple](https://www.codewars.com/kata/5951d30ce99cf2467e000013/train/javascript)
 - [0056_5_without_numbers](https://www.codewars.com/kata/59441520102eaa25260000bf/train/javascript)
 - [0057_count_odd_numbers_below_n](https://www.codewars.com/kata/59342039eb450e39970000a6/train/javascript)
+- [0058_get_nth_even_number](https://www.codewars.com/kata/5933a1f8552bc2750a0000ed/train/javascript)
