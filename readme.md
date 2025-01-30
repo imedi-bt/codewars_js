@@ -59,3 +59,4 @@
 - [0058_get_nth_even_number](https://www.codewars.com/kata/5933a1f8552bc2750a0000ed/train/javascript)
 - [0059_geometry_basics_circle_circumference_in_2D](https://www.codewars.com/kata/58e43389acfd3e81d5000a88/train/javascript)
 - [0060_8kyu_interpreters:_HQ9+](https://www.codewars.com/kata/591588d49f4056e13f000001/train/javascript)
+- [0061_find_the_first_non-consecutive_number](https://www.codewars.com/kata/58f8a3a27a5c28d92e000144/train/javascript)
