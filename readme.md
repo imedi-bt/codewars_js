@@ -61,3 +61,9 @@
 - [0060_8kyu_interpreters:_HQ9+](https://www.codewars.com/kata/591588d49f4056e13f000001/train/javascript)
 - [0061_find_the_first_non-consecutive_number](https://www.codewars.com/kata/58f8a3a27a5c28d92e000144/train/javascript)
 - [0062_simple_fun_#261:_whose_move](https://www.codewars.com/kata/59126992f9f87fd31600009b/train/javascript)
+- [0063_geometry_basics:_circle_area_in_2d](https://www.codewars.com/kata/58e3f824a33b52c1dc0001c0/train/javascript)
+- [0064_geometry_basics:_distance_between_points_in_2d](https://www.codewars.com/kata/58dced7b702b805b200000be/train/javascript)
+- [0065_do_you_speak_english?](https://www.codewars.com/kata/58dbdccee5ee8fa2f9000058/train/javascript)
+- [0066_find_out_whether_the_shape_is_a_cube](https://www.codewars.com/kata/58d248c7012397a81800005c/train/javascript)
+- [0067_difference_of_volumes_of_cuboids](https://www.codewars.com/kata/58cb43f4256836ed95000f97/train/javascript)
+-
