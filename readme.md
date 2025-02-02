@@ -69,3 +69,4 @@
 - [0068_find_multiples_of_a_number](https://www.codewars.com/kata/58ca658cc0d6401f2700045f/train/javascript)
 - [0069_who_is_going_to_pay_for_the_wall?](https://www.codewars.com/kata/58bf9bd943fadb2a980000a7/train/javascript)
 - [0070_invert_values](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad/train/javascript)
+- [0071_merge_two_sorted_arrays_into_one](https://www.codewars.com/kata/5899642f6e1b25935d000161/train/javascript)
