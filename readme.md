@@ -68,3 +68,4 @@
 - [0067_difference_of_volumes_of_cuboids](https://www.codewars.com/kata/58cb43f4256836ed95000f97/train/javascript)
 - [0068_find_multiples_of_a_number](https://www.codewars.com/kata/58ca658cc0d6401f2700045f/train/javascript)
 - [0069_who_is_going_to_pay_for_the_wall?](https://www.codewars.com/kata/58bf9bd943fadb2a980000a7/train/javascript)
+- [0070_invert_values](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad/train/javascript)
