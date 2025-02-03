@@ -71,3 +71,6 @@
 - [0070_invert_values](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad/train/javascript)
 - [0071_merge_two_sorted_arrays_into_one](https://www.codewars.com/kata/5899642f6e1b25935d000161/train/javascript)
 - [0072_calculate_price_excluding_VAT](https://www.codewars.com/kata/5890d8bc9f0f422cf200006b/train/javascript)
+- [0073_simple_fun_#1:_seats_in_theater](https://www.codewars.com/kata/588417e576933b0ec9000045/train/javascript)
+- [0074_NBA_full_48_minutes_average](https://www.codewars.com/kata/587c2d08bb65b5e8040004fd/train/javascript)
+- [0075_will_there_be_enough_space](https://www.codewars.com/kata/5875b200d520904a04000003/train/javascript)
