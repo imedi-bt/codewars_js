@@ -74,3 +74,5 @@
 - [0073_simple_fun_#1:_seats_in_theater](https://www.codewars.com/kata/588417e576933b0ec9000045/train/javascript)
 - [0074_NBA_full_48_minutes_average](https://www.codewars.com/kata/587c2d08bb65b5e8040004fd/train/javascript)
 - [0075_will_there_be_enough_space](https://www.codewars.com/kata/5875b200d520904a04000003/train/javascript)
+- [0076_grasshopper_terminal_game_combat_function](https://www.codewars.com/kata/586c1cf4b98de0399300001d/train/javascript)
+- 
