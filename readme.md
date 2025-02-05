@@ -75,4 +75,4 @@
 - [0074_NBA_full_48_minutes_average](https://www.codewars.com/kata/587c2d08bb65b5e8040004fd/train/javascript)
 - [0075_will_there_be_enough_space](https://www.codewars.com/kata/5875b200d520904a04000003/train/javascript)
 - [0076_grasshopper_terminal_game_combat_function](https://www.codewars.com/kata/586c1cf4b98de0399300001d/train/javascript)
-- 
+- [0077_ensure_question](https://www.codewars.com/kata/5866fc43395d9138a7000006/train/javascript)
