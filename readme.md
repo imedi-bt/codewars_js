@@ -76,3 +76,6 @@
 - [0075_will_there_be_enough_space](https://www.codewars.com/kata/5875b200d520904a04000003/train/javascript)
 - [0076_grasshopper_terminal_game_combat_function](https://www.codewars.com/kata/586c1cf4b98de0399300001d/train/javascript)
 - [0077_ensure_question](https://www.codewars.com/kata/5866fc43395d9138a7000006/train/javascript)
+- [0078_all_star_code_challenge_#18](https://www.codewars.com/kata/5865918c6b569962950002a1/train/javascript)
+- [0079_thinkful_logic_drills:_traffic_light](https://www.codewars.com/kata/58649884a1659ed6cb000072/train/javascript)
+- [0080_thinkful_number_drills:_blue_and_red_marbles](https://www.codewars.com/kata/5862f663b4e9d6f12b00003b/train/javascript)
