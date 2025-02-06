@@ -80,3 +80,4 @@
 - [0079_thinkful_logic_drills:_traffic_light](https://www.codewars.com/kata/58649884a1659ed6cb000072/train/javascript)
 - [0080_thinkful_number_drills:_blue_and_red_marbles](https://www.codewars.com/kata/5862f663b4e9d6f12b00003b/train/javascript)
 - [0081_will_you_make_it?](https://www.codewars.com/kata/5861d28f124b35723e00005e/train/javascript)
+- [0082_simple_multiplication](https://www.codewars.com/kata/583710ccaa6717322c000105/train/javascript)
