@@ -83,3 +83,4 @@
 - [0082_simple_multiplication](https://www.codewars.com/kata/583710ccaa6717322c000105/train/javascript)
 - [0083_BASIC:_making_six_toast](https://www.codewars.com/kata/5834fec22fb0ba7d080000e8/train/javascript)
 - [0084_ES6_string_addition](https://www.codewars.com/kata/582e4c3406e37fcc770001ad/train/javascript)
+- [0085_duck_duck_goose](https://www.codewars.com/kata/582e0e592029ea10530009ce/train/javascript)
