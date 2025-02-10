@@ -84,3 +84,4 @@
 - [0083_BASIC:_making_six_toast](https://www.codewars.com/kata/5834fec22fb0ba7d080000e8/train/javascript)
 - [0084_ES6_string_addition](https://www.codewars.com/kata/582e4c3406e37fcc770001ad/train/javascript)
 - [0085_duck_duck_goose](https://www.codewars.com/kata/582e0e592029ea10530009ce/train/javascript)
+- [0086_for_UFC_fans_(total_beginners):_conor_mcgregor_vs_george_saint_pierre](https://www.codewars.com/kata/582dafb611d576b745000b74/train/javascript)
