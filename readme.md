@@ -88,3 +88,4 @@
 - [0087_keep_hydrated!](https://www.codewars.com/kata/582cb0224e56e068d800003c/train/javascript)
 - [0088_volume_of_a_cuboid](https://www.codewars.com/kata/58261acb22be6e2ed800003a/train/javascript)
 - [0089_check_whether_a_number_is_valid_in_a_given_numeral_system](https://www.codewars.com/kata/67757660c552a3a7ef9aaceb/train/javascript)
+- [0090_simple_calculator](https://www.codewars.com/kata/5810085c533d69f4980001cf/train/javascript)
