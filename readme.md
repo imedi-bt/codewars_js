@@ -92,3 +92,4 @@
 - [0091_find_the_position](https://www.codewars.com/kata/5808e2006b65bff35500008f/train/javascript)
 - [0092_alan_partridge_II_apple_turnover](https://www.codewars.com/kata/580a094553bd9ec5d800007d/train/javascript)
 - [0093_switch_it_up](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031/train/javascript)
+- [0094_commenting_made_easy_a_beginner's_task](https://www.codewars.com/kata/6759ced1a4ab02be3b21f29d/train/javascript)
