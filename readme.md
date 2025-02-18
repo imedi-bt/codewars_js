@@ -94,3 +94,4 @@
 - [0093_switch_it_up](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031/train/javascript)
 - [0094_commenting_made_easy_a_beginners_task](https://www.codewars.com/kata/6759ced1a4ab02be3b21f29d/train/javascript)
 - [0095_two_glorious_rascals](https://www.codewars.com/kata/6755744942b3aa2fc21f0b64/train/javascript)
+- [0096_age_range_compatibility_equation](https://www.codewars.com/kata/5803956ddb07c5c74200144e/train/javascript)
