@@ -95,3 +95,4 @@
 - [0094_commenting_made_easy_a_beginners_task](https://www.codewars.com/kata/6759ced1a4ab02be3b21f29d/train/javascript)
 - [0095_two_glorious_rascals](https://www.codewars.com/kata/6755744942b3aa2fc21f0b64/train/javascript)
 - [0096_age_range_compatibility_equation](https://www.codewars.com/kata/5803956ddb07c5c74200144e/train/javascript)
+- [0097_pancakes_or_waffles_sentence_censorer](https://www.codewars.com/kata/674d4d8e3520c1e84eacf11e/train/javascript)
