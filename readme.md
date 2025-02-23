@@ -98,3 +98,4 @@
 - [0097_pancakes_or_waffles_sentence_censorer](https://www.codewars.com/kata/674d4d8e3520c1e84eacf11e/train/javascript)
 - [0098_replace_all_vowel_to_exclamation_mark_in_the_sentence](https://www.codewars.com/kata/57fb09ef2b5314a8a90001ed/train/javascript)
 - [0099_remove_n_exclamation_marks_in_the_sentence_from_left_to_right](https://www.codewars.com/kata/57faf7275c991027af000679/train/javascript)
+- [0100_remove_all_exclamation_marks_from_sentence_but_ensure_a_exclamation_mark_at_the_end_of_string](https://www.codewars.com/kata/57faf12b21c84b5ba30001b0/train/javascript)
