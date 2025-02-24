@@ -100,3 +100,5 @@
 - [0099_remove_n_exclamation_marks_in_the_sentence_from_left_to_right](https://www.codewars.com/kata/57faf7275c991027af000679/train/javascript)
 - [0100_remove_all_exclamation_marks_from_sentence_but_ensure_a_exclamation_mark_at_the_end_of_string](https://www.codewars.com/kata/57faf12b21c84b5ba30001b0/train/javascript)
 - [0101_remove_all_exclamation_marks_from_the_end_of_sentence](https://www.codewars.com/kata/57faece99610ced690000165/train/javascript)
+- [0102_remove_an_exclamation_mark_from_the_end_of_string](https://www.codewars.com/kata/57fae964d80daa229d000126/train/javascript)
+- [0103_beginner_-_lost_without_a_map](https://www.codewars.com/kata/57f781872e3d8ca2a000007e/train/javascript)
