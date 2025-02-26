@@ -104,3 +104,4 @@
 - [0103_beginner_-_lost_without_a_map](https://www.codewars.com/kata/57f781872e3d8ca2a000007e/train/javascript)
 - [0104_beginner_-_reduce_but_grow](https://www.codewars.com/kata/57f780909f7e8e3183000078/train/javascript)
 - [0105_simple_comparison](https://www.codewars.com/kata/57f6ecdfcca6e045d2001207/train/javascript)
+- [0106_to_square(root)_or_not_to_square(root)](https://www.codewars.com/kata/57f6ad55cca6e045d2000627/train/javascript)
