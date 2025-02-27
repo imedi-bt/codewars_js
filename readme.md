@@ -105,3 +105,4 @@
 - [0104_beginner_-_reduce_but_grow](https://www.codewars.com/kata/57f780909f7e8e3183000078/train/javascript)
 - [0105_simple_comparison](https://www.codewars.com/kata/57f6ecdfcca6e045d2001207/train/javascript)
 - [0106_to_square(root)_or_not_to_square(root)](https://www.codewars.com/kata/57f6ad55cca6e045d2000627/train/javascript)
+- [0107_i_love_you_a little_a lot_passionately_not_at_all](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296/train/javascript)
