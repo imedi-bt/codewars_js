@@ -109,3 +109,4 @@
 - [0108_well_of_ideas_-_easy_version](https://www.codewars.com/kata/57f222ce69e09c3630000212/train/javascript)
 - [0109_flight_distance_of_interceptor_planes_is_miscalculated](https://www.codewars.com/kata/67b7a527c9f842fd3b02adb8/train/javascript)
 - [0110_filter_out_the_geese](https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7/train/javascript)
+- [0111_the_wide-mouthed_frog](https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89/train/javascript)
