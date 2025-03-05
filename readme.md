@@ -111,3 +111,4 @@
 - [0110_filter_out_the_geese](https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7/train/javascript)
 - [0111_the_wide-mouthed_frog](https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89/train/javascript)
 - [0112_sum_mixed_array](https://www.codewars.com/kata/57eaeb9578748ff92a000009/train/javascript)
+- [0113_fake_binary](https://www.codewars.com/kata/57eae65a4321032ce000002d/train/javascript)
