@@ -113,3 +113,4 @@
 - [0112_sum_mixed_array](https://www.codewars.com/kata/57eaeb9578748ff92a000009/train/javascript)
 - [0113_fake_binary](https://www.codewars.com/kata/57eae65a4321032ce000002d/train/javascript)
 - [0114_remove_string_spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5/train/javascript)
+- [0115_abbreviate_a_two_word_name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/train/javascript)
