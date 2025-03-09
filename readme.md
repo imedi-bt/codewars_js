@@ -115,3 +115,4 @@
 - [0114_remove_string_spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5/train/javascript)
 - [0115_abbreviate_a_two_word_name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3/train/javascript)
 - [0116_holiday_VIII_-_duty_free](https://www.codewars.com/kata/57e92e91b63b6cbac20001e5/train/javascript)
+- [0117_holiday_VI_-_shark_pontoon](https://www.codewars.com/kata/57e921d8b36340f1fd000059/train/javascript)
