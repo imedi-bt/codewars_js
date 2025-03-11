@@ -117,3 +117,4 @@
 - [0116_holiday_VIII_-_duty_free](https://www.codewars.com/kata/57e92e91b63b6cbac20001e5/train/javascript)
 - [0117_holiday_VI_-_shark_pontoon](https://www.codewars.com/kata/57e921d8b36340f1fd000059/train/javascript)
 - [0118_convert_a_string_to_an_array](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d/train/javascript)
+- [0119_hello_name_or_world](https://www.codewars.com/kata/57e3f79c9cb119374600046b/train/javascript)
