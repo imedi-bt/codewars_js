@@ -119,3 +119,4 @@
 - [0118_convert_a_string_to_an_array](https://www.codewars.com/kata/57e76bc428d6fbc2d500036d/train/javascript)
 - [0119_hello_name_or_world](https://www.codewars.com/kata/57e3f79c9cb119374600046b/train/javascript)
 - [0120_string_cleaning](https://www.codewars.com/kata/57e1e61ba396b3727c000251/train/javascript)
+- [0121_is_there_a_vowel_in_there](https://www.codewars.com/kata/57cff961eca260b71900008f/train/javascript)
