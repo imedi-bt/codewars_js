@@ -120,3 +120,4 @@
 - [0119_hello_name_or_world](https://www.codewars.com/kata/57e3f79c9cb119374600046b/train/javascript)
 - [0120_string_cleaning](https://www.codewars.com/kata/57e1e61ba396b3727c000251/train/javascript)
 - [0121_is_there_a_vowel_in_there](https://www.codewars.com/kata/57cff961eca260b71900008f/train/javascript)
+- [0122_sort_and_star](https://www.codewars.com/kata/57cfdf34902f6ba3d300001e/train/javascript)
