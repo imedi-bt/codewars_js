@@ -122,3 +122,4 @@
 - [0121_is_there_a_vowel_in_there](https://www.codewars.com/kata/57cff961eca260b71900008f/train/javascript)
 - [0122_sort_and_star](https://www.codewars.com/kata/57cfdf34902f6ba3d300001e/train/javascript)
 - [0123_you_only_need_one_-_beginner](https://www.codewars.com/kata/57cc975ed542d3148f00015b/train/javascript)
+- [0124]
