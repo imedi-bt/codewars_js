@@ -124,3 +124,4 @@
 - [0123_you_only_need_one_-_beginner](https://www.codewars.com/kata/57cc975ed542d3148f00015b/train/javascript)
 - [0124_no_loops_2_-_you_only_need_one](https://www.codewars.com/kata/57cc40b2f8392dbf2a0003ce/train/javascript)
 - [0125_points_of_reflection](https://www.codewars.com/kata/57bfea4cb19505912900012c/train/javascript)
+- [0126_fuel_calculator_total_cost](https://www.codewars.com/kata/57b58827d2a31c57720012e8/train/javascript)
