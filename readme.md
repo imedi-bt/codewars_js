@@ -128,3 +128,4 @@
 - [0127_return_two_highest_values_in_list](https://www.codewars.com/kata/57ab3c09bb994429df000a4a/train/javascript)
 - [0128_polish_alphabet](https://www.codewars.com/kata/57ab2d6072292dbf7c000039/train/javascript)
 - [0129_price_of_mangoes](https://www.codewars.com/kata/57a77726bb9944d000000b06/train/javascript)
+- [0130_bin_to_decimal](https://www.codewars.com/kata/57a5c31ce298a7e6b7000334/train/javascript)
