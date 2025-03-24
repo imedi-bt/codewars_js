@@ -130,3 +130,4 @@
 - [0129_price_of_mangoes](https://www.codewars.com/kata/57a77726bb9944d000000b06/train/javascript)
 - [0130_bin_to_decimal](https://www.codewars.com/kata/57a5c31ce298a7e6b7000334/train/javascript)
 - [0131_remove_duplicates_from_list](https://www.codewars.com/kata/57a5b0dfcf1fa526bb000118/train/javascript)
+- [0132_reversing_words_in_a_string](https://www.codewars.com/kata/57a55c8b72292d057b000594/train/javascript)
