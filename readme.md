@@ -132,3 +132,4 @@
 - [0131_remove_duplicates_from_list](https://www.codewars.com/kata/57a5b0dfcf1fa526bb000118/train/javascript)
 - [0132_reversing_words_in_a_string](https://www.codewars.com/kata/57a55c8b72292d057b000594/train/javascript)
 - [0133_hex_to_decimal](https://www.codewars.com/kata/57a4d500e298a7952100035d/train/javascript)
+- [0134_calculate_BMI](https://www.codewars.com/kata/57a429e253ba3381850000fb/train/javascript)
