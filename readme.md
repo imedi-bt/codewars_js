@@ -134,3 +134,4 @@
 - [0133_hex_to_decimal](https://www.codewars.com/kata/57a4d500e298a7952100035d/train/javascript)
 - [0134_calculate_BMI](https://www.codewars.com/kata/57a429e253ba3381850000fb/train/javascript)
 - [0135_parse_float](https://www.codewars.com/kata/57a386117cb1f31890000039/train/javascript)
+- [0136_calculate_average](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921/train/javascript)
