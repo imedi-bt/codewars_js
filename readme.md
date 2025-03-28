@@ -135,3 +135,4 @@
 - [0134_calculate_BMI](https://www.codewars.com/kata/57a429e253ba3381850000fb/train/javascript)
 - [0135_parse_float](https://www.codewars.com/kata/57a386117cb1f31890000039/train/javascript)
 - [0136_calculate_average](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921/train/javascript)
+- [0137_is_it_a_palindrome](https://www.codewars.com/kata/57a1fd2ce298a731b20006a4/train/javascript)
