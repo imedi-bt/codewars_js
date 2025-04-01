@@ -138,3 +138,4 @@
 - [0137_is_it_a_palindrome](https://www.codewars.com/kata/57a1fd2ce298a731b20006a4/train/javascript)
 - [0138_string_repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e/train/javascript)
 - [0139_remove_exclamation_marks](https://www.codewars.com/kata/57a0885cbb9944e24c00008e/train/javascript)
+- [0140_powers_of_2](https://www.codewars.com/kata/57a083a57cb1f31db7000028/train/javascript)
