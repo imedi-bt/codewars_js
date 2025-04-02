@@ -140,3 +140,4 @@
 - [0139_remove_exclamation_marks](https://www.codewars.com/kata/57a0885cbb9944e24c00008e/train/javascript)
 - [0140_powers_of_2](https://www.codewars.com/kata/57a083a57cb1f31db7000028/train/javascript)
 - [0141_makeuppercase](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7/train/javascript)
+- [0142_crash_override](https://www.codewars.com/kata/578c1e2edaa01a9a02000b7f/train/javascript)
