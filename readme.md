@@ -142,3 +142,4 @@
 - [0141_makeuppercase](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7/train/javascript)
 - [0142_crash_override](https://www.codewars.com/kata/578c1e2edaa01a9a02000b7f/train/javascript)
 - [0143_is_your_period_late](https://www.codewars.com/kata/578a8a01e9fd1549e50001f1/train/javascript)
+- [0144_pole_vault_starting_marks](https://www.codewars.com/kata/5786f8404c4709148f0006bf/train/javascript)
