@@ -145,3 +145,4 @@
 - [0144_pole_vault_starting_marks](https://www.codewars.com/kata/5786f8404c4709148f0006bf/train/javascript)
 - [0145_welcome](https://www.codewars.com/kata/577ff15ad648a14b780000e7/train/javascript)
 - [0146_correct_the_mistakes_of_the_character_recognition_software](https://www.codewars.com/kata/577bd026df78c19bca0002c0/train/javascript)
+- [0147_find_maximum_and_minimum_values_of_a_list](https://www.codewars.com/kata/577a98a6ae28071780000989/train/javascript)
