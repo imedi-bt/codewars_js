@@ -146,3 +146,4 @@
 - [0145_welcome](https://www.codewars.com/kata/577ff15ad648a14b780000e7/train/javascript)
 - [0146_correct_the_mistakes_of_the_character_recognition_software](https://www.codewars.com/kata/577bd026df78c19bca0002c0/train/javascript)
 - [0147_find_maximum_and_minimum_values_of_a_list](https://www.codewars.com/kata/577a98a6ae28071780000989/train/javascript)
+- [0148_collatz_conjecture_3n+1](https://www.codewars.com/kata/577a6e90d48e51c55e000217/train/javascript)
