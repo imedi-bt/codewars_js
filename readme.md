@@ -147,3 +147,5 @@
 - [0146_correct_the_mistakes_of_the_character_recognition_software](https://www.codewars.com/kata/577bd026df78c19bca0002c0/train/javascript)
 - [0147_find_maximum_and_minimum_values_of_a_list](https://www.codewars.com/kata/577a98a6ae28071780000989/train/javascript)
 - [0148_collatz_conjecture_3n+1](https://www.codewars.com/kata/577a6e90d48e51c55e000217/train/javascript)
+- [0149_grasshopper_personalized_message](https://www.codewars.com/kata/5772da22b89313a4d50012f7/train/javascript)
+- [0150_count_of_positives_sum_of_negatives](https://www.codewars.com/kata/576bb71bbbcf0951d5000044/train/javascript)
