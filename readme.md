@@ -149,3 +149,4 @@
 - [0148_collatz_conjecture_3n+1](https://www.codewars.com/kata/577a6e90d48e51c55e000217/train/javascript)
 - [0149_grasshopper_personalized_message](https://www.codewars.com/kata/5772da22b89313a4d50012f7/train/javascript)
 - [0150_count_of_positives_sum_of_negatives](https://www.codewars.com/kata/576bb71bbbcf0951d5000044/train/javascript)
+- [0151_sum_without_highest_and_lowest_number](https://www.codewars.com/kata/576b93db1129fcf2200001e6/train/javascript)
