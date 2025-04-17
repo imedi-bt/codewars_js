@@ -153,3 +153,4 @@
 - [0152_removing_elements](https://www.codewars.com/kata/5769b3802ae6f8e4890009d2/train/javascript)
 - [0153_arguments_to_binary_addition](https://www.codewars.com/kata/57642a90dee2da8dd3000161/train/javascript)
 - [0154_count_the_number_of_cubes_with_paint_on](https://www.codewars.com/kata/5763bb0af716cad8fb000580/train/javascript)
+- [0155_how_old_will_I_be_in_2099](https://www.codewars.com/kata/5761a717780f8950ce001473/train/javascript)
