@@ -156,3 +156,4 @@
 - [0155_how_old_will_I_be_in_2099](https://www.codewars.com/kata/5761a717780f8950ce001473/train/javascript)
 - [0156_рow_much_water_do_I_need](https://www.codewars.com/kata/575fa9afee048b293e000287/train/javascript)
 - [0157_whats_the_real_floor](https://www.codewars.com/kata/574b3b1599d8f897470018f6/train/javascript)
+- [0158_heads_and_legs]()
