@@ -31,4 +31,14 @@ You will only be given integers types - however negative values (edge cases) wil
 Happy coding!
 */
 
+function animals(heads, legs) {
+  if (legs % 2 === 0 && legs >= heads) {
+    let nChicken = heads - (legs - heads * 2) / 2;
+    let nCow = (legs - heads * 2) / 2;
+    if (nChicken >= 0 && nCow >= 0) {
+      return [nChicken, nCow];
+    } 
+  }
+  return 'No solutions';
+}
 
