@@ -158,3 +158,4 @@
 - [0157_whats_the_real_floor](https://www.codewars.com/kata/574b3b1599d8f897470018f6/train/javascript)
 - [0158_heads_and_legs](https://www.codewars.com/kata/574c5075d27783851800169e/train/javascript)
 - [0159_UEFA_EURO_2016](https://www.codewars.com/kata/57613fb1033d766171000d60/train/javascript)
+- [0160_are_they_opposite](https://www.codewars.com/kata/574b1916a3ebd6e4fa0012e7/train/javascript)
