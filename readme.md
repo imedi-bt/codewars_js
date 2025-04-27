@@ -159,4 +159,5 @@
 - [0158_heads_and_legs](https://www.codewars.com/kata/574c5075d27783851800169e/train/javascript)
 - [0159_UEFA_EURO_2016](https://www.codewars.com/kata/57613fb1033d766171000d60/train/javascript)
 - [0160_are_they_opposite](https://www.codewars.com/kata/574b1916a3ebd6e4fa0012e7/train/javascript)
-- [0170_pirates_are_the_cannons_ready](https://www.codewars.com/kata/5748a883eb737cab000022a6/train/javascript)
+- [0161_pirates_are_the_cannons_ready](https://www.codewars.com/kata/5748a883eb737cab000022a6/train/javascript)
+- [0162_area_of_a_square](https://www.codewars.com/kata/5748838ce2fab90b86001b1a/train/javascript)
