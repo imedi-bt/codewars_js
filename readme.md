@@ -163,3 +163,4 @@
 - [0162_area_of_a_square](https://www.codewars.com/kata/5748838ce2fab90b86001b1a/train/javascript)
 - [0163_merging_sorted_integer_arrays_without_duplicates](https://www.codewars.com/kata/573f5c61e7752709df0005d2/train/javascript)
 - [0164_basic_mathematical_operations](https://www.codewars.com/kata/57356c55867b9b7a60000bd7/train/javascript)
+- [0165_training_js_34_methods_of_Math_pow_sqrt_and_cbrt](https://www.codewars.com/kata/5733f948d780e27df6000e33/train/javascript)
