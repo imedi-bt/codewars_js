@@ -165,3 +165,5 @@
 - [0164_basic_mathematical_operations](https://www.codewars.com/kata/57356c55867b9b7a60000bd7/train/javascript)
 - [0165_training_js_34_methods_of_Math_pow_sqrt_and_cbrt](https://www.codewars.com/kata/5733f948d780e27df6000e33/train/javascript)
 - [0166_training_js_32_methods_of_Math_round_ceil_and_floor](https://www.codewars.com/kata/5732d3c9791aafb0e4001236/train/javascript)
+- [0167_training_js_31_methods_of_arrayObject_isArray_indexOf_and_toString](https://www.codewars.com/kata/5732b0351eb838d03300101d/train/javascript)
+- [0168_training_js_29_methods_of_arrayObject_concat_and_join](https://www.codewars.com/kata/5731861d05d14d6f50000626/train/javascript)
