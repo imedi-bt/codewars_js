@@ -167,3 +167,5 @@
 - [0166_training_js_32_methods_of_Math_round_ceil_and_floor](https://www.codewars.com/kata/5732d3c9791aafb0e4001236/train/javascript)
 - [0167_training_js_31_methods_of_arrayObject_isArray_indexOf_and_toString](https://www.codewars.com/kata/5732b0351eb838d03300101d/train/javascript)
 - [0168_training_js_29_methods_of_arrayObject_concat_and_join](https://www.codewars.com/kata/5731861d05d14d6f50000626/train/javascript)
+- [0169_pick_a_set_of_first_elements](https://www.codewars.com/kata/572b77262bedd351e9000076/train/javascript)
+- [0170_ASCII_Total](https://www.codewars.com/kata/572b6b2772a38bc1e700007a/train/javascript)
