@@ -169,3 +169,4 @@
 - [0168_training_js_29_methods_of_arrayObject_concat_and_join](https://www.codewars.com/kata/5731861d05d14d6f50000626/train/javascript)
 - [0169_pick_a_set_of_first_elements](https://www.codewars.com/kata/572b77262bedd351e9000076/train/javascript)
 - [0170_ASCII_Total](https://www.codewars.com/kata/572b6b2772a38bc1e700007a/train/javascript)
+- [0171_training_js_21_methods_of_String_object_trim_and_the_string_template](https://www.codewars.com/kata/5729b103dd8bac11a900119e/train/javascript)
