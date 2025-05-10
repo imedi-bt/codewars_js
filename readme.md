@@ -173,3 +173,4 @@
 - [0172_training_js_18_methods_of_String_object_concat_split_and_its_good_friend_join](https://www.codewars.com/kata/57280481e8118511f7000ffa/train/javascript)
 - [0173_training_js_17_methods_of_String_object_indexOf_lastIndexOf_and_search](https://www.codewars.com/kata/57277a31e5e51450a4000010/train/javascript)
 - [0174_training_js_16_methods_of_String_object_slice_substring_and_substr](https://www.codewars.com/kata/57274562c8dcebe77e001012/train/javascript)
+- [0175_training_js_15_methods_of_Number_object_toFixed_toExponential_and_toPrecision](https://www.codewars.com/kata/57256064856584bc47000611/train/javascript)
