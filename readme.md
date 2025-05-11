@@ -174,3 +174,4 @@
 - [0173_training_js_17_methods_of_String_object_indexOf_lastIndexOf_and_search](https://www.codewars.com/kata/57277a31e5e51450a4000010/train/javascript)
 - [0174_training_js_16_methods_of_String_object_slice_substring_and_substr](https://www.codewars.com/kata/57274562c8dcebe77e001012/train/javascript)
 - [0175_training_js_15_methods_of_Number_object_toFixed_toExponential_and_toPrecision](https://www.codewars.com/kata/57256064856584bc47000611/train/javascript)
+- [0176_sum_of_multiples](https://www.codewars.com/kata/57241e0f440cd279b5000829/train/javascript)
