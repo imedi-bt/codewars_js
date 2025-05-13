@@ -176,3 +176,4 @@
 - [0175_training_js_15_methods_of_Number_object_toFixed_toExponential_and_toPrecision](https://www.codewars.com/kata/57256064856584bc47000611/train/javascript)
 - [0176_sum_of_multiples](https://www.codewars.com/kata/57241e0f440cd279b5000829/train/javascript)
 - [0177_training_js_14_methods_of_Number_object_toString_and_toLocaleString](https://www.codewars.com/kata/57238ceaef9008adc7000603/train/javascript)
+- [0178_simple_change_machine](https://www.codewars.com/kata/57238766214e4b04b8000011/train/javascript)
