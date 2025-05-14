@@ -177,3 +177,4 @@
 - [0176_sum_of_multiples](https://www.codewars.com/kata/57241e0f440cd279b5000829/train/javascript)
 - [0177_training_js_14_methods_of_Number_object_toString_and_toLocaleString](https://www.codewars.com/kata/57238ceaef9008adc7000603/train/javascript)
 - [0178_simple_change_machine](https://www.codewars.com/kata/57238766214e4b04b8000011/train/javascript)
+- [0179_training_js_13_number_object_and_its_properties](https://www.codewars.com/kata/5722fd3ab7162a3a4500031f/train/javascript)
