@@ -179,3 +179,4 @@
 - [0178_simple_change_machine](https://www.codewars.com/kata/57238766214e4b04b8000011/train/javascript)
 - [0179_training_js_13_number_object_and_its_properties](https://www.codewars.com/kata/5722fd3ab7162a3a4500031f/train/javascript)
 - [0180_training_js_12_loop_statement_for_in_and_for_of](https://www.codewars.com/kata/5722b3f0bd5583cf44001000/solutions/javascript)
+- [0181_noobCode_02](https://www.codewars.com/kata/572269697297444c570008b9/train/javascript)
