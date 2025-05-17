@@ -181,3 +181,5 @@
 - [0180_training_js_12_loop_statement_for_in_and_for_of](https://www.codewars.com/kata/5722b3f0bd5583cf44001000/solutions/javascript)
 - [0181_noobCode_02](https://www.codewars.com/kata/572269697297444c570008b9/train/javascript)
 - [0182_training_js_11_loop_statement_break_continue](https://www.codewars.com/kata/5721c189cdd71194c1000b9b/train/javascript)
+- [0183_training_js_10_loop_statement_for](https://www.codewars.com/kata/5721a78c283129e416000999/train/javascript)
+- [0184_training_js_9_loop_statement_while_and_do_while](https://www.codewars.com/kata/57216d4bcdd71175d6000560/train/javascript)
