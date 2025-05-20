@@ -184,3 +184,4 @@
 - [0183_training_js_10_loop_statement_for](https://www.codewars.com/kata/5721a78c283129e416000999/train/javascript)
 - [0184_training_js_9_loop_statement_while_and_do_while](https://www.codewars.com/kata/57216d4bcdd71175d6000560/train/javascript)
 - [0185_find_the_difference_in_age_between_oldest_and_youngest_family_members](https://www.codewars.com/kata/5720a1cb65a504fdff0003e2/train/javascript)
+- [0186_training_js_8_conditional_statement_switch](https://www.codewars.com/kata/572059afc2f4612825000d8a/train/javascript)
