@@ -187,3 +187,4 @@
 - [0186_training_js_8_conditional_statement_switch](https://www.codewars.com/kata/572059afc2f4612825000d8a/train/javascript)
 - [0187_training_js_7_if_else_and_ternary_operator](https://www.codewars.com/kata/57202aefe8d6c514300001fd/train/javascript)
 - [0188_training_js_6_basic_data_types_Boolean_and_conditional_statements_if_else](https://www.codewars.com/kata/571f832f07363d295d001ba8/train/javascript)
+- [0189_training_js_5_basic_data_types_Object](https://www.codewars.com/kata/571f1eb77e8954a812000837/train/javascript)
