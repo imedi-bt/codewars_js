@@ -190,3 +190,4 @@
 - [0189_training_js_5_basic_data_types_Object](https://www.codewars.com/kata/571f1eb77e8954a812000837/train/javascript)
 - [0190_training_js_4_basic_data_types_Array](https://www.codewars.com/kata/571effabb625ed9b0600107a/train/javascript)
 - [0191_training_js_3_basic_data_types_String](https://www.codewars.com/kata/571edea4b625edcb51000d8e/train/javascript)
+- [0192_training_js_2_basic_data_types_Number](https://www.codewars.com/kata/571edd157e8954bab500032d/train/javascript)
