@@ -191,3 +191,4 @@
 - [0190_training_js_4_basic_data_types_Array](https://www.codewars.com/kata/571effabb625ed9b0600107a/train/javascript)
 - [0191_training_js_3_basic_data_types_String](https://www.codewars.com/kata/571edea4b625edcb51000d8e/train/javascript)
 - [0192_training_js_2_basic_data_types_Number](https://www.codewars.com/kata/571edd157e8954bab500032d/train/javascript)
+- [0193_blood_alcohol_content](https://www.codewars.com/kata/571b6a4a7beb0a8ade0007a8/train/javascript)
