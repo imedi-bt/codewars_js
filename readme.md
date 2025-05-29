@@ -192,3 +192,5 @@
 - [0191_training_js_3_basic_data_types_String](https://www.codewars.com/kata/571edea4b625edcb51000d8e/train/javascript)
 - [0192_training_js_2_basic_data_types_Number](https://www.codewars.com/kata/571edd157e8954bab500032d/train/javascript)
 - [0193_blood_alcohol_content](https://www.codewars.com/kata/571b6a4a7beb0a8ade0007a8/train/javascript)
+- [0194_sum_of_positive](https://www.codewars.com/kata/5715eaedb436cf5606000381/train/javascript)
+- [0195_fix_your_code_before_the_garden_dies](https://www.codewars.com/kata/57158fb92ad763bb180004e7/train/javascript)
