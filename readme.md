@@ -195,3 +195,4 @@
 - [0194_sum_of_positive](https://www.codewars.com/kata/5715eaedb436cf5606000381/train/javascript)
 - [0195_fix_your_code_before_the_garden_dies](https://www.codewars.com/kata/57158fb92ad763bb180004e7/train/javascript)
 - [0196_freudian_translator](https://www.codewars.com/kata/5713bc89c82eff33c60009f7/train/javascript)
+- [0197_is_it_a_number](https://www.codewars.com/kata/57126304cdbf63c6770012bd/train/javascript)
