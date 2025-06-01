@@ -196,3 +196,4 @@
 - [0195_fix_your_code_before_the_garden_dies](https://www.codewars.com/kata/57158fb92ad763bb180004e7/train/javascript)
 - [0196_freudian_translator](https://www.codewars.com/kata/5713bc89c82eff33c60009f7/train/javascript)
 - [0197_is_it_a_number](https://www.codewars.com/kata/57126304cdbf63c6770012bd/train/javascript)
+- [0198_name_on_billboard](https://www.codewars.com/kata/570e8ec4127ad143660001fd/train/javascript)
