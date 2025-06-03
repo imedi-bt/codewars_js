@@ -198,3 +198,4 @@
 - [0197_is_it_a_number](https://www.codewars.com/kata/57126304cdbf63c6770012bd/train/javascript)
 - [0198_name_on_billboard](https://www.codewars.com/kata/570e8ec4127ad143660001fd/train/javascript)
 - [0199_count_words](https://www.codewars.com/kata/570cc83df616a85944001315/train/javascript)
+- [0200_coding_3min_jumping_dutch_act](https://www.codewars.com/kata/570bcd9715944a2c8e000009/train/javascript)
