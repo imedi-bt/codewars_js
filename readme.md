@@ -200,3 +200,4 @@
 - [0199_count_words](https://www.codewars.com/kata/570cc83df616a85944001315/train/javascript)
 - [0200_coding_3min_jumping_dutch_act](https://www.codewars.com/kata/570bcd9715944a2c8e000009/train/javascript)
 - [0201_no_zeros_for_heroes](https://www.codewars.com/kata/570a6a46455d08ff8d001002/train/javascript)
+- [0202_logical_calculator](https://www.codewars.com/kata/57096af70dad013aa200007b/train/javascript)
