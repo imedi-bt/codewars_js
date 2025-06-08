@@ -202,3 +202,5 @@
 - [0201_no_zeros_for_heroes](https://www.codewars.com/kata/570a6a46455d08ff8d001002/train/javascript)
 - [0202_logical_calculator](https://www.codewars.com/kata/57096af70dad013aa200007b/train/javascript)
 - [0203_multiply_the_number](https://www.codewars.com/kata/5708f682c69b48047b000e07/train/javascript)
+- [0204_was_the_package_received_before_it_was_sent_simplified](https://www.codewars.com/kata/6707688c0f597511f6649270/train/javascript)
+- [0205_grasshopper_if_else_syntax_debug](https://www.codewars.com/kata/57089707fe2d01529f00024a/train/javascript)
