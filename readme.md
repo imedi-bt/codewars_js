@@ -204,3 +204,4 @@
 - [0203_multiply_the_number](https://www.codewars.com/kata/5708f682c69b48047b000e07/train/javascript)
 - [0204_was_the_package_received_before_it_was_sent_simplified](https://www.codewars.com/kata/6707688c0f597511f6649270/train/javascript)
 - [0205_grasshopper_if_else_syntax_debug](https://www.codewars.com/kata/57089707fe2d01529f00024a/train/javascript)
+- [0206_not_so_black_box](https://www.codewars.com/kata/57080f21d531cd94950007eb/train/javascript)
